@@ -7,7 +7,7 @@
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=jinx.jinx-docs" align="center" alt="visitors">
 
-<img src="https://xianjianheng.com/logo.png" width="260" align="right" alt="">
+
 
 |     主&emsp;页     | <https://xianjianheng.com>                                   |
 | :----------------: | :----------------------------------------------------------- |
